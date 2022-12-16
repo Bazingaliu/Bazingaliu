@@ -54,18 +54,7 @@ Here are some ideas to get you started:
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/Bazingaliu">
-    <img src="https://badges.pufler.dev/visits/Bazingaliu/Bazingaliu?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Bazingaliu">
-    <img src="https://badges.pufler.dev/years/Bazingaliu?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Bazingaliu?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Bazingaliu?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Bazingaliu">
-    <img src="https://badges.pufler.dev/commits/monthly/Bazingaliu?style=flat-square&color=black&logo=github">
-  </a>
+
 </p>
 
 

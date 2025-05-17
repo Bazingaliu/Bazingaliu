@@ -33,23 +33,23 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXRXd_LFLvL5i2puVIzEP4MO9GvP-33BDZQ&s" width="28px"/>
   </a>
   &emsp;
   <a href= "https://www.instagram.com/Bazingaliu_/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/channel/UCxFkZjbpt0KyhEv1d342SQQ" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/Bazingaliu" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/buymeacoffee-256.png" width="30px"/>
   </a> 
   &emsp;
   <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" width="26px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode"></code>
 <code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV"></code>
+<code><img height="20" src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown"></code>
@@ -102,8 +102,3 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 <a href="https://Bazingaliu.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h2></h2>
-
-🚧 **My Todoist Stats: ⬇️**
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Bazingaliu&repo=PaperWeeklyAI)](https://github.com/Bazingaliu/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Bazingaliu&repo=Surface-Defect-Detection)](https://github.com/Bazingaliu/Surface-Defect-Detection)
--->

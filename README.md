@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://www.buymeacoffee.com/Bazingaliu" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/buymeacoffee-256.png" width="30px"/>
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5c58570cfdd26f0001068f06/0x0.png" width="30px"/>
   </a> 
   &emsp;
   <a href="https://www.linkedin.com/in/%E4%BC%9F-%E5%BC%A0-647b29133/" target="_blank">

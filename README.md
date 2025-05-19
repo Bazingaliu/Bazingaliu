@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://blog.csdn.net/Bazingaliu" target="_blank">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CSDN_Logo.svg/500px-CSDN_Logo.svg.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://my.oschina.net/Bazingaliu" target="_blank">
